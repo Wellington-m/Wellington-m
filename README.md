@@ -2,6 +2,7 @@
 <h3 align="center">Estudante de desenvolvimento na Trybe.</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
+<p>- 📫 **wellingtonmachioni@gmail.com**</p>
 <p align="left">
 <a href="https://linkedin.com/in/wellington-machioni-muniz-de-souza-1a4638184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wellington-machioni-muniz-de-souza-1a4638184/" height="30" width="40" /></a>
 </p>
