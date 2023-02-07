@@ -1,4 +1,4 @@
-<h1 align="center">Ola 👋, bem vindo ao meu github</h1>
+<h1 align="center">Ola 👋, bem vindo ao meu GitHub</h1>
 <!-- <h3 align="center">Estudante de desenvolvimento Web na Trybe.</h3> -->
 <p>Sou Wellington, atualmente estudando último módulo de ciência da computação na <strong>Trybe</strong>, apaixonado por tecnologia e programação web, estou no caminho para me tornar um programador fullstack, sempre buscande me aperfeiçoar a aprender cada vez mais.</p>
 
