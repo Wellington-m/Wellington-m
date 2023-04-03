@@ -1,6 +1,6 @@
 <h1 align="center">Ola 👋, bem vindo ao meu GitHub</h1>
 <!-- <h3 align="center">Estudante de desenvolvimento Web na Trybe.</h3> -->
-<p>Sou Wellington, atualmente estudando último módulo de ciência da computação na <strong>Trybe</strong>, apaixonado por tecnologia e programação web, estou no caminho para me tornar um programador full-stack, sempre buscando me aperfeiçoar a aprender cada vez mais.</p>
+<p>Sou Wellington, formado em desenvolvimento web na <strong>Trybe</strong> e atualmente cursando desenvolvimento em jogos digitais, apaixonado por tecnologia e programação web, estou no caminho para me tornar um programador full-stack, sempre buscando me aperfeiçoar a aprender cada vez mais.</p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
