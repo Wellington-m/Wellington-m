@@ -1,6 +1,8 @@
 <h1 align="center">Ola 👋, bem vindo ao meu GitHub</h1>
 <!-- <h3 align="center">Estudante de desenvolvimento Web na Trybe.</h3> -->
-<p>Sou Wellington, formado em desenvolvimento web na <strong>Trybe</strong> e atualmente cursando desenvolvimento em jogos digitais, apaixonado por tecnologia e programação web, estou no caminho para me tornar um programador full-stack, sempre buscando me aperfeiçoar a aprender cada vez mais.</p>
+<p>Meu nome é Wellington, sou um profissional especializado em Desenvolvimento Web pela Trybe, e atualmente estou dedicado ao curso de Desenvolvimento em Jogos Digitais. Minha paixão pela tecnologia e programação web tem me impulsionado a trilhar o caminho para me tornar um programador full-stack altamente capacitado.
+
+Busco constantemente o aperfeiçoamento e estou sempre empenhado em adquirir novos conhecimentos para me manter atualizado e competitivo no mercado. Acredito que a busca pelo aprendizado contínuo é fundamental para me destacar na área e entregar soluções inovadoras e eficientes para os projetos com os quais trabalho.</p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
