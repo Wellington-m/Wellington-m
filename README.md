@@ -30,7 +30,7 @@ Veja mais em [meus repositórios](https://github.com/Wellington-m?tab=repositori
 
 ## 📫 Contato  
 📧 Email: wellingtonmachioni@gmail.com  
-💼 LinkedIn: [linkedin.com/in/wellington-machioni](https://www.linkedin.com/in/wellington-machioni/)  
+💼 LinkedIn: [linkedin.com/in/wellington-machioni](https://www.linkedin.com/in/wellington-machioni/){:target="_blank"}  
 🌎 Portfólio: [Em desenvolvimento...](#)  
 
 Sempre aberto a novas oportunidades e colaborações! 🚀  
