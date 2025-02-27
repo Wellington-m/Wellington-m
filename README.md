@@ -24,13 +24,13 @@ Atualmente, estou aprimorando minhas habilidades como **Engenheiro Front-End**, 
 🔹 **[Projeto 2](#)** – Breve descrição do projeto.  
 🔹 **[Projeto 3](#)** – Breve descrição do projeto.  
 
-Veja mais em [meus repositórios](https://github.com/seu-usuario).  
+Veja mais em [meus repositórios](https://github.com/Wellington-m?tab=repositories).  
 
 ---
 
 ## 📫 Contato  
 📧 Email: wellingtonmachioni@gmail.com  
-💼 LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/wellington-machioni/)  
+💼 LinkedIn: [linkedin.com/in/wellington-machioni](https://www.linkedin.com/in/wellington-machioni/)  
 🌎 Portfólio: [Em desenvolvimento...](#)  
 
 Sempre aberto a novas oportunidades e colaborações! 🚀  
