@@ -1,8 +1,40 @@
 <h1 align="center">Ola 👋, bem vindo ao meu GitHub</h1>
 <!-- <h3 align="center">Estudante de desenvolvimento Web na Trybe.</h3> -->
-<p>Meu nome é Wellington, sou um profissional especializado em Desenvolvimento Web pela Trybe, e atualmente estou dedicado ao curso de Desenvolvimento em Jogos Digitais. Minha paixão pela tecnologia e programação web tem me impulsionado a trilhar o caminho para me tornar um programador full-stack altamente capacitado.
+# 💻 Wellington Machioni Muniz de Souza  
 
-Busco constantemente o aperfeiçoamento e estou sempre empenhado em adquirir novos conhecimentos para me manter atualizado e competitivo no mercado. Acredito que a busca pelo aprendizado contínuo é fundamental para me destacar na área e entregar soluções inovadoras e eficientes para os projetos com os quais trabalho.</p>
+🚀 **Desenvolvedor Web | Front-End & Back-End | JavaScript, React, Node.js**  
+
+## 👋 Sobre mim  
+Sou um entusiasta da tecnologia em transição para o desenvolvimento web. Com experiência anterior em suporte técnico e infraestrutura de TI, desenvolvi habilidades analíticas e de resolução de problemas, que agora aplico na criação de soluções eficientes e escaláveis para a web.  
+
+Atualmente, estou aprimorando minhas habilidades como **Engenheiro Front-End**, complementando minha formação em **desenvolvimento web full-stack**. Tenho experiência com **React, JavaScript, Node.js e bancos de dados SQL**, e busco oportunidades para contribuir com projetos inovadores.  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+- **Front-End:** HTML, CSS, JavaScript, React  
+- **Back-End:** Node.js, Express, SQL  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Ferramentas:** Git, GitHub, Docker  
+
+---
+
+## 📌 Projetos Destacados  
+🔹 **[Projeto 1](#)** – Breve descrição do projeto.  
+🔹 **[Projeto 2](#)** – Breve descrição do projeto.  
+🔹 **[Projeto 3](#)** – Breve descrição do projeto.  
+
+Veja mais em [meus repositórios](https://github.com/seu-usuario).  
+
+---
+
+## 📫 Contato  
+📧 Email: wellingtonmachioni@gmail.com  
+💼 LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/seu-usuario/)  
+🌎 Portfólio: [seuportfólio.com](#)  
+
+Sempre aberto a novas oportunidades e colaborações! 🚀  
+
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
